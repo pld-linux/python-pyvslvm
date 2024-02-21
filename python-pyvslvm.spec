@@ -16,7 +16,7 @@ Summary:	Python 2 bindings for libvslvm library
 Summary(pl.UTF-8):	Wiązania Pythona 2 do biblioteki libvslvm
 Name:		python-pyvslvm
 Version:	20221025
-Release:	1
+Release:	2
 License:	LGPL v3+
 Group:		Libraries/Python
 #Source0Download: https://github.com/libyal/libvslvm/releases
